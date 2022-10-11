@@ -1,0 +1,16 @@
+Exercices.
+
+Exercice 1.
+Créez une classe nommée form représentant un formulaire HTML. Le constructeur doit créer le code d’en-tête du formulaire en utilisant les éléments <form> et <fieldset>. Une méthode settext() doit permettre d’ajouter une zone de texte. Une méthode setsubmit() doit permettre d’ajouter un bouton d’envoi. Les paramètres de ces méthodes doivent correspondre aux attributs des éléments HTML correspondants. La méthode getform() doit retourner tout le code HTML de création du formulaire. Créez des objets form, et ajoutez-y deux zones de texte et un bouton d’envoi. 
+
+Exercice 2.
+Créez une sous-classe nommée form2 en dérivant la classe form de l’exercice. Cette nouvelle classe doit permettre de créer des formulaires ayant en plus des boutons radio et des cases à cocher. Elle doit donc avoir les méthodes supplémentaires qui correspondent à ces créations. Créez des objets.
+
+
+Exercice 3
+            3.1-1. Créer une interface utilisateur avec les méthodes set et get pour une propriété $user ainsi que pour une propriété $genre
+        3.2- Créer une classe  Commentateur pour implémenter l’interface utilisateur.
+  3.3-	Créer une fonction pour ajouter « Mr » ou « Mme » au nom de l’utilisateur. Lors de l’écriture de la fonction, assurez-vous de la saisir correctement, afin quelle puisse obtenir que les types attendus.
+        3.4- Exécuter le code avec un utilisateur « Brigitte » et un autre « Emmanuel ».
+
+
